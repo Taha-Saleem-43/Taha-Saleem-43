@@ -93,7 +93,7 @@ A full-stack recruitment platform with secure role-based access, real-time messa
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Taha-Saleem-43&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Taha-Saleem-43&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
 </p>
 
 ---
