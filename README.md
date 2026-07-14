@@ -1,16 +1,121 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Taha Saleem</h1>
 
-<!--
-**Taha-Saleem-43/Taha-Saleem-43** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">AI Engineer • Machine Learning Developer • Full-Stack AI Builder</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Building+AI-powered+Applications;Machine+Learning+%7C+Generative+AI;Computer+Vision+%7C+RAG+Systems;FastAPI+%7C+Flutter+%7C+React;Always+Learning+Something+New" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+  </a>
+  <a href="mailto:tahasaleemdev@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+🎓 **BS Data Science** student at **Punjab University College of Information Technology (PUCIT)**
+
+I'm passionate about building **production-ready AI applications** that combine Machine Learning, Large Language Models, Computer Vision, and modern software engineering.
+
+Currently exploring **Agentic AI**, **LLMs**, **RAG**, **AI Automation**, and scalable backend architectures.
+
+---
+
+## 🚀 Featured Projects
+
+### 🏋️ FitAI
+An AI-powered fitness application featuring computer vision, real-time pose detection, intelligent coaching, and personalized nutrition planning.
+
+**Tech:** Flutter • Firebase • Google ML Kit • Hive
+
+---
+
+### 🎙️ Voice-Based Attendance System
+Built a speaker recognition system using **ECAPA-TDNN embeddings** with **85.3% identification accuracy**, featuring real-time attendance logging and a Streamlit interface.
+
+**Tech:** Python • Streamlit • SQLite • SpeechBrain
+
+---
+
+### 💼 AI Job Portal
+A full-stack recruitment platform with secure role-based access, real-time messaging, and an AI-powered resume generator using **LLaMA 3.1**.
+
+**Tech:** React • TypeScript • Supabase • PostgreSQL • FastAPI
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+`Python` • `C++` • `Java` • `SQL` • `Dart`
+
+**AI & Machine Learning**
+
+`PyTorch` • `Scikit-Learn` • `LangChain` • `Hugging Face` • `RAG` • `Prompt Engineering` • `Google ML Kit`
+
+**Backend & Cloud**
+
+`FastAPI` • `Supabase` • `Firebase` • `PostgreSQL`
+
+**Frontend & Mobile**
+
+`React` • `Flutter` • `TypeScript`
+
+**Data & Tools**
+
+`Pandas` • `NumPy` • `Power BI` • `Git` • `Docker` • `Kubernetes` • `n8n`
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
+</p>
+
+---
+
+## 🌱 Currently Learning
+
+- 🤖 Agentic AI & Multi-Agent Systems
+- 🧠 Advanced LLM Applications
+- 🔍 Retrieval-Augmented Generation (RAG)
+- ☁️ MLOps & AI Deployment
+- ⚡ System Design for AI Applications
+
+---
+
+## 📫 Let's Connect
+
+- 💼 LinkedIn: **YOUR_LINKEDIN_URL**
+- 🌐 Portfolio: **YOUR_PORTFOLIO_URL**
+- 📧 Email: **tahasaleemdev@gmail.com**
+
+---
+
+<p align="center">
+<i>"Building intelligent software that solves real-world problems."</i>
+</p>
