@@ -7,10 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/tahadev3211/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://myportfoliods.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-121212?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
   <a href="mailto:tahasaleemdev@gmail.com">
@@ -80,12 +80,12 @@ A full-stack recruitment platform with secure role-based access, real-time messa
 ## 📈 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Taha-Saleem-43&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Taha-Saleem-43&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Saleem-43&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -93,7 +93,7 @@ A full-stack recruitment platform with secure role-based access, real-time messa
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Taha-Saleem-43&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12"/>
 </p>
 
 ---
@@ -110,8 +110,8 @@ A full-stack recruitment platform with secure role-based access, real-time messa
 
 ## 📫 Let's Connect
 
-- 💼 LinkedIn: **YOUR_LINKEDIN_URL**
-- 🌐 Portfolio: **YOUR_PORTFOLIO_URL**
+- 💼 LinkedIn: **https://www.linkedin.com/in/tahadev3211/**
+- 🌐 Portfolio: **https://myportfoliods.vercel.app/**
 - 📧 Email: **tahasaleemdev@gmail.com**
 
 ---
