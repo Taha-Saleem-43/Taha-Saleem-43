@@ -79,13 +79,13 @@ A full-stack recruitment platform with secure role-based access, real-time messa
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://streak-stats.demolab.com?user=Taha-Saleem-43&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Taha-Saleem-43&theme=tokyonight&hide_border=true&v=1" />
 </p>
 <p align="center">
-  <img height="170" src="https://github-stats-readme-personal-taha-saleem-43s-projects.vercel.app/api?username=Taha-Saleem-43&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
+  <img height="170" src="https://github-stats-readme-personal-taha-saleem-43s-projects.vercel.app/api?username=Taha-Saleem-43&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400&v=1" />
 </p>
 <p align="center">
-  <img height="170" src="https://github-stats-readme-personal-taha-saleem-43s-projects.vercel.app/api/top-langs/?username=Taha-Saleem-43&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
+  <img height="170" src="https://github-stats-readme-personal-taha-saleem-43s-projects.vercel.app/api/top-langs/?username=Taha-Saleem-43&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400&v=1" />
 </p>
 
 ---
