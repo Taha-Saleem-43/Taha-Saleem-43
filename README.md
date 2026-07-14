@@ -79,13 +79,13 @@ A full-stack recruitment platform with secure role-based access, real-time messa
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://nice-readme.vercel.app/streak-stats?user=Taha-Saleem-43&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Taha-Saleem-43&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img height="170" src="https://nice-readme.vercel.app/stats?username=Taha-Saleem-43&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-stats-rouge-two.vercel.app/api?username=Taha-Saleem-43&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" />
 </p>
 <p align="center">
-  <img height="170" src="https://nice-readme.vercel.app/top-langs?username=Taha-Saleem-43&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-stats-rouge-two.vercel.app/api/top-langs/?username=Taha-Saleem-43&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </p>
 
 ---
