@@ -79,22 +79,21 @@ A full-stack recruitment platform with secure role-based access, real-time messa
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Taha-Saleem-43&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://streak-stats.demolab.com?user=Taha-Saleem-43&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Saleem-43&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p>
+<a href="https://github.com/Taha-Saleem-43?tab=repositories">
+<img src="https://img.shields.io/badge/Public%20Repositories-View%20Projects-0D1117?style=for-the-badge&logo=github" />
+</a>
 
----
+<a href="https://github.com/Taha-Saleem-43?tab=stars">
+<img src="https://img.shields.io/badge/Starred%20Repositories-Explore-0D1117?style=for-the-badge&logo=github" />
+</a>
 
-## 🏆 GitHub Trophies
+<a href="https://github.com/Taha-Saleem-43?tab=followers">
+<img src="https://img.shields.io/github/followers/Taha-Saleem-43?style=for-the-badge&logo=github&label=Followers" />
+</a>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Taha-Saleem-43&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6" />
-</p>
+</div>
 
 ---
 
