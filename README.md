@@ -77,15 +77,15 @@ A full-stack recruitment platform with secure role-based access, real-time messa
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Taha-Saleem-43&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Taha-Saleem-43&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Taha-Saleem-43&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://streak-stats.demolab.com?user=Taha-Saleem-43&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Saleem-43&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taha-Saleem-43&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 </p>
 
 ---
